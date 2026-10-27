@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gravitas-strike.duckdns.org/sitemap.xml
